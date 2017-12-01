@@ -786,8 +786,8 @@
               "state": "ok"
             }
           },
-          "text1": "<b>ĐỊA CHỈ:</b><br>Đường Hoàng Ngân, Quốc lộ 5, Khu Cẩm Khê, Phường Tứ Minh, Tp. Hải Dương<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LIÊN HỆ:</strong></p><ul class=\"mbr-contacts__list\"><li>Email: gheda.thaocamkhe@gmail.com\n</li><li>Phone: 0975 754 688\n</li><li>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 03203 890 269</li></ul>",
+          "text1": "<b><br></b><br><b>ĐỊA CHỈ:</b><br>Đường Hoàng Ngân, Quốc lộ 5, Khu Cẩm Khê, Phường Tứ Minh, Tp. Hải Dương<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong><br></strong></p><p class=\"mbr-contacts__text\"><strong>LIÊN HỆ:</strong></p><ul class=\"mbr-contacts__list\"><li>Email: gheda.thaocamkhe@gmail.com\n</li><li>Phone: 0975 754 688\n</li><li>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 03203 890 269</li></ul>",
           "_tags": [
             "Theme"
           ],
