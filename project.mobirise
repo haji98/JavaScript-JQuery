@@ -781,9 +781,10 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
+              "address": "Ford Car Factory Quốc Lộ 5, Khu Cẩm Khê, Tứ Minh, Thành phố Hải Dương, Hải Dương",
+              "placeId": "ChIJB-ilFLmbNTERWAYusurcDcQ",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
           "text1": "<b><br></b><br><b>ĐỊA CHỈ:</b><br>Đường Hoàng Ngân, Quốc lộ 5, Khu Cẩm Khê, Phường Tứ Minh, Tp. Hải Dương<br><br>",
