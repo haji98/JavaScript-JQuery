@@ -1,0 +1,96 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+
+/* 
+    Created on : May 7, 2019, 11:31:25 AM
+    Author     : loan.nguyenkim
+*/
+
+label {
+    display: inline-block;
+    width: 150px;
+}
+
+input[type="text"],
+input[type="password"] {
+    display: inline-block;
+    width: 200px;
+}
+
+label.error {
+    display: inline-block;
+    color: red;
+    width: 220px;
+    padding-left: 10px;
+}
+
+form {
+    width: 45%;
+    float: left;
+    margin: 40px 0 0 20px;
+    border-right: 1px solid #e5e5e5;
+}
+
+.message {
+    font-weight: bold;
+    color: red;
+}
+
+.title {
+    margin: auto;
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+    color: #333;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+#myTable td,
+#myTable tr {
+    border: 1px solid black;
+}
+
+#myTable th {
+    text-align: center;
+    border: 1px solid black;
+}
+
+#myTable {
+    width: 720px;
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+body {
+    margin: 2em;
+}
+
+td:last-child {
+    text-align: center;
+}
+
+legend {
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+
+img {
+    width: 80px;
+    max-width: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.empty {
+    margin: auto;
+    text-align: center;
+    font-size: 21px;
+    color: darkgray;
+}
