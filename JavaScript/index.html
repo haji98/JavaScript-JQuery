@@ -1,1 +1,71 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
 
+<head>
+    <title>CALCULATE THE AVERAGE SCORE OF STUDENT</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="function.js" type="text/javascript"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+    <h1>CALCULATE THE AVERAGE SCORE OF STUDENT</h1>
+    <table>
+        <tr>
+            <td>Full name: </td>
+            <td>
+                <input type="text" name="name" id="name" placeholder="Please enter the full name">
+            </td>
+        </tr>
+        <tr>
+            <td>Math score: </td>
+            <td>
+                <input type="text" name="math" id="math" placeholder="Please enter the Math score">
+            </td>
+        </tr>
+        <tr>
+            <td>Physics score: </td>
+            <td>
+                <input type="text" name="physics" id="physics" placeholder="Please enter the Physics score">
+            </td>
+        </tr>
+        <tr>
+            <td>Chemistry score: </td>
+            <td>
+                <input type="text" name="chemistry" id="chemistry" placeholder="Please enter the Chemistry score">
+            </td>
+        </tr>
+        <tr>
+            <td>Average: </td>
+            <td><label class="message" id="average"></label></td>
+        </tr>
+        <tr>
+            <td>Rank: </td>
+            <td><label class="message" id="rank"></label></td>
+        </tr>
+    </table>
+    <br>
+    <input type="button" value="Submit" onclick="average.innerText = Calculate()" />
+
+    <br><br>
+    <h1>STUDENT LIST</h1>
+    <table id="myTable">
+        <tr>
+            <th>Full name</th>
+            <th>Math score</th>
+            <th>Physics score</th>
+            <th>Chemistry score</th>
+            <th>Average</th>
+            <th>Rank</th>
+        </tr>
+    </table>
+</body>
+
+</html>
