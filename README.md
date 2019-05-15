@@ -1,2 +1,3 @@
-# Upload file Excel using NodeJS Server
-Upload file Excel using NodeJS Server
+# Calculate the average score of student
+Calculate the average score of student
+Using JavaScript and JQuery
